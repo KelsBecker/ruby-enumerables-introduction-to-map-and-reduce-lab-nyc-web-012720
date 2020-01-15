@@ -65,7 +65,7 @@ def reduce_to_all_true(source_array)
       return false
     end
   end
- source_array
+ return true
 end
 
 
